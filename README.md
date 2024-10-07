@@ -1,7 +1,7 @@
 
 # Task Tracker CLI
 
-This is a simple command-line interface (CLI) application for managing tasks. The project is built using TypeScript and Node.js.
+This is a simple command-line interface (CLI) application for managing tasks. The project is built using TypeScript and Node.js. it is intended to achieve the https://roadmap.sh/projects/task-tracker project.
 
 ## Features
 
